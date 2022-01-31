@@ -1,3 +1,3 @@
 # Kokoa Clone 2022
 
-CSS and HTML study
+CSS & HTML study
